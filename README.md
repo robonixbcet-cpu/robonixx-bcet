@@ -158,8 +158,8 @@ CLIENT_URL=http://localhost:5173
 
 # Seed admin (first run only)
 ADMIN_NAME=Admin
-ADMIN_EMAIL_SEED=admin@robonixx.com
-ADMIN_PASSWORD_SEED=Robonixx@Admin123
+ADMIN_EMAIL_SEED=username
+ADMIN_PASSWORD_SEED=Your Password
 ```
 
 **Frontend** — `client/.env`:
